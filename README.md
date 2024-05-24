@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Meu nome é **Luiz Davi**, tenho 19 anos e atualmente estou cursando **Gestão da Tecnologia da Informação** na UNA Campo Christiano Machado. No entanto, estou animado em compartilhar que estou planejando fazer a transição para o curso de **Análise de Sistemas**.
+Olá! Meu nome é **Luiz Davi**, tenho 19 anos e atualmente estou cursando **Gestão da Tecnologia da Informação** na UNA Campo Christiano Machado. No entanto, estou animado em compartilhar que estou planejando fazer a transição para o curso de **Análise e desenvolvimento de sistemas**.
 
 Atualmente, estou dedicando meu tempo ao aprendizado de várias linguagens e tecnologias, incluindo **JavaScript**, **HTML**, **CSS** e **Python**, além de me aprimorar no idioma inglês. Tenho um profundo interesse no desenvolvimento de software e na resolução de problemas complexos por meio da tecnologia.
 
